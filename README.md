@@ -5,7 +5,7 @@
 ### Team Members
 | Team Members                                                | Section| B.N. |
 |-------------------------------------------------------------|:------:|:----:|
-| [Sara Elwayany](https://github.com/Saraelwatany)            |    1   |  39  |
+| [Sara Elwatany](https://github.com/Saraelwatany)            |    1   |  39  |
 | [Sohaila Mahmoud](https://github.com/sohailamahmoud)        |    1   |  45  |
 | [Mohamed Sayed](https://github.com/MohammadSayed02)         |    2   |  17  |
 | [Abdelrahman Sameh](https://github.com/AbdelrahmanSameh1)   |    1   |  53  |
